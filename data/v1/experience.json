@@ -1,66 +1,66 @@
-{
+[
   {
-    'company_name': 'Twilio',
-    'location': 'San Francisco, CA',
-    'start_date': '2013-06',
-    'end_date': '',
-    'team': 'Transactions',
-    'role': 'Software Engineer'
+    "company_name": "Twilio",
+    "location": "San Francisco, CA",
+    "start_date": "2013-06",
+    "end_date": "",
+    "team": "Transactions",
+    "role": "Software Engineer"
   },
   {
-    'company_name': 'Univiersity of Michigan - Electrical Engineering and Computer Science Department',
-    'location': 'Ann Arbor, MI',
-    'start_date': '2012-09',
-    'end_date': '2012-12',
-    'team': '',
-    'role': 'EECS 484 T.A.'
+    "company_name": "Univiersity of Michigan - Electrical Engineering and Computer Science Department",
+    "location": "Ann Arbor, MI",
+    "start_date": "2012-09",
+    "end_date": "2012-12",
+    "team": "",
+    "role": "EECS 484 T.A."
   },
   {
-    'company_name': 'Intel',
-    'location': 'Hillsboro, OR',
-    'start_date': '2012-05',
-    'end_date': '2012-08',
-    'team': 'Validation Tools Group',
-    'role': 'Software Engineer Intern'
+    "company_name": "Intel",
+    "location": "Hillsboro, OR",
+    "start_date": "2012-05",
+    "end_date": "2012-08",
+    "team": "Validation Tools Group",
+    "role": "Software Engineer Intern"
   },
   {
-    'company_name': 'truApp (now Seelio)',
-    'location': 'Ann Arbor, MI',
-    'start_date': '2012-04',
-    'end_date': '2012-05',
-    'team': 'Design/Project Management',
-    'role': 'Desgin/Product Intern'
+    "company_name": "truApp (now Seelio)",
+    "location": "Ann Arbor, MI",
+    "start_date": "2012-04",
+    "end_date": "2012-05",
+    "team": "Design/Project Management",
+    "role": "Desgin/Product Intern"
   },
   {
-    'company_name': 'University of Michigan - Biomedical Engineering Department',
-    'location': 'Ann Arbor, MI',
-    'start_date': '2012-01',
-    'end_date': '2012-04',
-    'team': 'Technology',
-    'role': 'Developer'
+    "company_name": "University of Michigan - Biomedical Engineering Department",
+    "location": "Ann Arbor, MI",
+    "start_date": "2012-01",
+    "end_date": "2012-04",
+    "team": "Technology",
+    "role": "Developer"
   },
   {
-    'company_name': 'Google Fuse',
-    'location': 'New York, NY',
-    'start_date': '2011-07',
-    'end_date': '2011-07',
-    'team': '',
-    'role': 'Mobile/Web Developer - Participant'
+    "company_name": "Google Fuse",
+    "location": "New York, NY",
+    "start_date": "2011-07",
+    "end_date": "2011-07",
+    "team": "",
+    "role": "Mobile/Web Developer - Participant"
   },
   {
-    'company_name': 'GE Aviation Systems',
-    'location': 'Grand Rapids, MI',
-    'start_date': '2011-05',
-    'end_date': '2011-08',
-    'team': 'B737 FMS (Boeing 737 Flight Management System)',
-    'role': 'Software Engineer Intern'
+    "company_name": "GE Aviation Systems",
+    "location": "Grand Rapids, MI",
+    "start_date": "2011-05",
+    "end_date": "2011-08",
+    "team": "B737 FMS (Boeing 737 Flight Management System)",
+    "role": "Software Engineer Intern"
   },
   {
-    'company_name': 'University of Michigan - 3D Lab',
-    'location': 'Ann Arbor, MI',
-    'start_date': '2010-11',
-    'end_date': '2011-05',
-    'team': '',
-    'role': 'Developer'
+    "company_name": "University of Michigan - 3D Lab",
+    "location": "Ann Arbor, MI",
+    "start_date": "2010-11",
+    "end_date": "2011-05",
+    "team": "",
+    "role": "Developer"
   }
-}
+]

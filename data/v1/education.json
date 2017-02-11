@@ -1,228 +1,229 @@
-{
+[
   {
-    'name': 'University of Michigan',
-    'location'; 'Ann Arbor, MI'
-    'start_date': '2010-09-01',
-    'end_date': '2013-12-31',
-    'notes': '',
-    'courses': {
+    "name": "University of Michigan",
+    "location": "Ann Arbor, MI",
+    "start_date": "2010-09-01",
+    "end_date": "2013-12-31",
+    "notes": "",
+    "courses": [
       {
-        'name': 'Software Engineering'
-        'department': 'EECS',
-        'course_number': 481
+        "name": "Software Engineering",
+        "department": "EECS",
+        "course_number": 481
       },
       {
-        'name': 'Major Design Projects',
-        'department': 'EECS',
-        'course_number': 497
+        "name": "Major Design Projects",
+        "department": "EECS",
+        "course_number": 497
       },
       {
-        'name': 'Database Mgt Syst',
-        'department': 'EECS',
-        'course_number': 484
+        "name": "Database Mgt Syst",
+        "department": "EECS",
+         "course_number": 484
       },
       {
-        'name': 'Web Dbase Info Sys',
-        'department': 'EECS',
-        'course_number': 485
+        "name": "Web Dbase Info Sys",
+        "department": "EECS",
+        "course_number": 485
       },
       {
-        'name': 'Adv Directed Study',
-        'department': 'EECS',
-        'course_number': 499
+         "name": "Adv Directed Study",
+        "department": "EECS",
+        "course_number": 499
       },
       {
-        'name': 'Foundations of Computer Science',
-        'department': 'EECS',
-        'course_number': 376
+         "name": "Foundations of Computer Science",
+        "department": "EECS",
+         "course_number": 376
       },
       {
-        'name': 'Computer Security',
-        'department': 'EECS',
-        'course_number': 388
+        "name": "Computer Security",
+        "department": "EECS",
+        "course_number": 388
       },
       {
-        'name': 'Into Computer Org',
-        'department': 'EECS',
-        'course_number': 370 
+        "name": "Into Computer Org",
+        "department": "EECS",
+        "course_number": 370 
       },
       {
-        'name': 'Data Structures & Algorithms',
-        'department': 'EECS',
-        'course_number': 281 
+         "name": "Data Structures & Algorithms",
+        "department": "EECS",
+         "course_number": 281 
       },
       {
-        'name': 'Programming & Data Structures',
-        'department': 'EECS',
-        'course_number': 280 
+        "name": "Programming & Data Structures",
+        "department": "EECS",
+        "course_number": 280 
       },
       {
-        'name': 'Prog Lang or Syst',
-        'department': 'EECS',
-        'course_number': 285 
+        "name": "Prog Lang or Syst",
+        "department": "EECS",
+        "course_number": 285 
       },
       {
-        'name': 'Discrete Math',
-        'department': 'EECS',
-        'course_number': 203 
+        "name": "Discrete Math",
+        "department": "EECS",
+        "course_number": 203 
       },
       {
-        'name': 'Ethics',
-        'department': 'EECS',
-        'course_number': 496 
+        "name": "Ethics",
+        "department": "EECS",
+        "course_number": 496 
       },
       {
-        'name': 'Intermed Macro Thry',
-        'department': 'ECON',
-        'course_number': 402 
+        "name": "Intermed Macro Thry",
+        "department": "ECON",
+         "course_number": 402 
       },
       {
-        'name': 'Intermed Micro Thry',
-        'department': 'ECON',
-        'course_number': 401 
+        "name": "Intermed Micro Thry",
+        "department": "ECON",
+        "course_number": 401 
       },
       {
-        'name': 'Auction Design',
-        'department': 'ECON',
-        'course_number': 395 
+        "name": "Auction Design",
+        "department": "ECON",
+        "course_number": 395 
       },
       {
-        'name': 'MacroEconomics',
-        'department': 'ECON',
-        'course_number': 102 
+        "name": "MacroEconomics",
+        "department": "ECON",
+        "course_number": 102 
       },
       {
-        'name': 'MicroEconomics',
-        'department': 'ECON',
-        'course_number': 101 
+        "name": "MicroEconomics",
+        "department": "ECON",
+        "course_number": 101 
       },
       {
-        'name': 'Senior Desgin Tech Comm',
-        'department': 'TCHNCLCM',
-        'course_number': 497 
+        "name": "Senior Desgin Tech Comm",
+        "department": "TCHNCLCM",
+        "course_number": 497 
       },
       {
-        'name': 'Logic',
-        'department': 'PHIL',
-        'course_number': 180 
+        "name": "Logic",
+        "department": "PHIL",
+        "course_number": 180 
       },
       {
-        'name': 'Probability & Statistics',
-        'department': 'STATS',
-        'course_number': 412 
+        "name": "Probability & Statistics",
+        "department": "STATS",
+        "course_number": 412 
       },
       {
-        'name': 'Brazil History and Culture',
-        'department': 'LACS',
-        'course_number': 483 
+        "name": "Brazil History and Culture",
+        "department": "LACS",
+        "course_number": 483 
       },
       {
-        'name': 'Entrepreneur Hour',
-        'department': 'ENGR',
-        'course_number': 407 
+        "name": "Entrepreneur Hour",
+        "department": "ENGR",
+        "course_number": 407 
       },
       {
-        'name': 'Gaming for the Greater Good',
-        'department': 'ENGR',
-        'course_number': 100 
+        "name": "Gaming for the Greater Good",
+        "department": "ENGR",
+        "course_number": 100 
       },
       {
-        'name': 'Tech Comm for EE&CE',
-        'department': 'TCHNCLCM',
-        'course_number': 300 
+        "name": "Tech Comm for EE&CE",
+        "department": "TCHNCLCM",
+        "course_number": 300 
       },
       {
-        'name': 'Physics-Mechanics Lab',
-        'department': 'PHYSICS',
-        'course_number': 141 
+        "name": "Physics-Mechanics Lab",
+        "department": "PHYSICS",
+        "course_number": 141 
       },
       {
-        'name': 'Physics-E&M Lab',
-        'department': 'PHYSICS',
-        'course_number': 140 
+        "name": "Physics-E&M Lab",
+        "department": "PHYSICS",
+        "course_number": 140 
       },
       {
-        'name': 'Linear Algebra',
-        'department': 'MATH',
-        'course_number': 417 
+        "name": "Linear Algebra",
+        "department": "MATH",
+        "course_number": 417 
       },
       {
-        'name': 'Gen Chem',
-        'department': 'CHEM',
-        'course_number': 130 
+        "name": "Gen Chem",
+        "department": "CHEM",
+        "course_number": 130 
       },
       {
-        'name': 'Gen Chem Lab',
-        'department': 'CHEM',
-        'course_number': 125 
+        "name": "Gen Chem Lab",
+        "department": "CHEM",
+        "course_number": 125 
       }
-    }
-    {
-      'name': 'Michigan State University',
-      'location': 'East Lansing, MI',
-      'start_date': '2009-09-01', 
-      'end_date': '2010-05-01', 
-      'notes': 'Dual enrollment in high school',
-      'courses': {
-        {
-          'name': 'Programming',
-          'department': 'CSE'
-          'course_number': 231 
-        },
-        {
-          'name': 'Accounting',
-          'department': 'ACC'
-          'course_number': 230
-        },
-        {
-          'name': 'Multivariable Calculus',
-          'department': 'MATH'
-          'course_number': 234
-        },
-        {
-          'name': 'Differential Equations',
-          'department': 'MATH'
-          'course_number': 235
-        },
-        {
-          'name': 'Physics-Mechanics',
-          'department': 'PHY'
-          'course_number': 183 
-        },
-        {
-          'name': 'Physics-E&M',
-          'department': 'PHY'
-          'course_number': 184
-        }
-    }
+    ]
   },
   {
-    'name': 'Brighton High School',
-    'location: 'Brigthon, MI',
-    'start_date': '2007-09-01',
-    'end_date': '2010-05-01',
-    'notes': '',
-    'courses': {
+    "name": "Michigan State University",
+    "location": "East Lansing, MI",
+    "start_date": "2009-09-01", 
+    "end_date": "2010-05-01", 
+    "notes": "Dual enrollment in high school",
+    "courses": [
       {
-        'name': 'AP Calculus-BC', 
-        'department': '', 
-        'course_number': '', 
+        "name": "Programming",
+        "department": "CSE",
+        "course_number": 231 
+      },
+      {
+        "name": "Accounting",
+        "department": "ACC",
+        "course_number": 230
+      },
+      {
+        "name": "Multivariable Calculus",
+        "department": "MATH",
+        "course_number": 234
+      },
+      {
+        "name": "Differential Equations",
+        "department": "MATH",
+        "course_number": 235
+      },
+      {
+        "name": "Physics-Mechanics",
+        "department": "PHY",
+        "course_number": 183 
+      },
+      {
+        "name": "Physics-E&M",
+        "department": "PHY",
+        "course_number": 184
+      }
+    ]
+  },
+  {
+    "name": "Brighton High School",
+    "location": "Brigthon, MI",
+    "start_date": "2007-09-01",
+    "end_date": "2010-05-01",
+    "notes": "",
+    "courses": [
+      {
+        "name": "AP Calculus-BC", 
+        "department": "", 
+        "course_number": ""
       }, 
       {
-        'name': 'AP Biology', 
-        'department': '', 
-        'course_number': '', 
+        "name": "AP Biology", 
+        "department": "", 
+        "course_number": ""
       }, 
       {
-        'name': 'AP Literature', 
-        'department': '', 
-        'course_number': '', 
+        "name": "AP Literature", 
+        "department": "", 
+        "course_number": ""
       }, 
       {
-        'name': 'AP Language', 
-        'department': '', 
-        'course_number': '', 
+        "name": "AP Language", 
+        "department": "", 
+        "course_number": ""
       } 
-    }
+    ]
   }
-}  
+]  

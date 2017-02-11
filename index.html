@@ -9,28 +9,46 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="https://plus.google.com/+RebeccaGebhard92/" rel="publisher">
 		<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="css/base.min.css">
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/base.min.js"></script>
 	</head>
 	<body>
-		<h1>Rebecca Gebhard</h1>
-		<section>
-			<h2>About</h2>
-			<div id="about" class="details">
-				<p>Info about me</p>
-			</div>
-		</section>
-		<section class="hidden">
-			<h2>Education</h2>
-			<div id="education" class="details"></div>
-		</section>
-		<section class="hidden">
-			<h2>Work Experience</h2>
-			<div id="work" class="details"></div>
-		</section>
-		<section class="hidden">
-			<h2>Contact</h2>
-			<div id="contact" class="details"></div>
-		</section>
+		<div id="banner" class="row">
+			<h1 class="col-md-4">Rebecca Gebhard</h1>
+			<a href="#" data-link="about"><h3 class="col-md-2">About</h3></a>
+			<a href="#" data-link="education"><h3 class="col-md-2">Education</h3></a>
+			<a href="#" data-link="work"><h3 class="col-md-2">Experience</h3></a>
+			<a href="#" data-link="contact"><h3 class="col-md-2">Contact</h3></a>
+
+		</div>
+		<div id="content">
+			<section id="about">
+				<div class="row">
+					<img src="img/about/umich.jpg" class="col-md-3">
+					<img src="img/about/code.png" class="col-md-3">
+					<img src="img/about/boat.png" class="col-md-3">
+					<img src="img/about/kirkwood.png" class="col-md-3">
+				</div>
+				<br><br>
+				<div class="row">
+					<img src="img/about/snow.png" class="col-md-3">
+					<img src="img/about/woodson.png" class="col-md-3">
+					<img src="img/about/car.png" class="col-md-3">
+					<img src="img/about/soccer.png" class="col-md-3">
+				</div>
+			</section>
+			<section id="education" class="hide">
+				<pre></pre>
+			</section>
+			<section id="work" class="hide">
+				<pre></pre>
+			</section>
+			<section id="contact" class="hide">
+			</section>	
+		<div>
 	</body>
 </html>	
