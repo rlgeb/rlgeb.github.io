@@ -1,12 +1,20 @@
-#portfolio {
-  font-family: 'Source Code Pro', monospace;
-  padding: 10px;
+#content {
+  margin: 30px;
 }
 #banner {
   margin-bottom: 60px;
   font-family: 'Petit Formal Script', cursive;
 }
-
 #banner h3 {
   margin-top: 30px;
+}
+.resume-header {
+  border-bottom: 1px solid grey;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.resume-date {
+  float: right;
+  font-style: italic;
 }

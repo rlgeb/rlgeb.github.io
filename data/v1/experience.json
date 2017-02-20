@@ -3,8 +3,8 @@
     "company_name": "Twilio",
     "location": "San Francisco, CA",
     "start_date": "2013-06",
-    "end_date": "",
-    "team": "Transactions",
+    "end_date": "Present",
+    "team": "Transactions (TX) Team",
     "role": "Software Engineer"
   },
   {
@@ -20,7 +20,7 @@
     "location": "Hillsboro, OR",
     "start_date": "2012-05",
     "end_date": "2012-08",
-    "team": "Validation Tools Group",
+    "team": "Validation Tools Group (VTG) Team",
     "role": "Software Engineer Intern"
   },
   {
@@ -28,7 +28,7 @@
     "location": "Ann Arbor, MI",
     "start_date": "2012-04",
     "end_date": "2012-05",
-    "team": "Design/Project Management",
+    "team": "Design/Project Management Team",
     "role": "Desgin/Product Intern"
   },
   {
@@ -36,7 +36,7 @@
     "location": "Ann Arbor, MI",
     "start_date": "2012-01",
     "end_date": "2012-04",
-    "team": "Technology",
+    "team": "",
     "role": "Developer"
   },
   {
@@ -52,7 +52,7 @@
     "location": "Grand Rapids, MI",
     "start_date": "2011-05",
     "end_date": "2011-08",
-    "team": "B737 FMS (Boeing 737 Flight Management System)",
+    "team": "B737 FMS (Boeing 737 Flight Management System) Team",
     "role": "Software Engineer Intern"
   },
   {
