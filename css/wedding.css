@@ -1,0 +1,34 @@
+#content {
+  margin: 30px;
+}
+
+#banner {
+  margin-bottom: 60px;
+  margin-left: 15px;
+}
+#banner h3 {
+  margin-top: 30px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+.fancy-font {
+  font-family: 'Alex Brush', cursive;
+  color: rgb(144,144,144);
+}
+.modern-font {
+  font-family: 'Libre Baskerville', serif;
+  color: rgb(144,144,144);
+  color: rgb(133,133,133);
+}
+section {
+  padding-top: 200px;
+  height: 100vh;
+}
+p {
+  font-family: 'Libre Baskerville', serif;
+  color: rgb(144,144,144);
+  text-align: center;
+}
