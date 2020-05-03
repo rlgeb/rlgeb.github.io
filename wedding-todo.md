@@ -1,8 +1,7 @@
 1. clean up css
-2. make more mobile friendly
-3. add tree "icon" somewhere
-4. fix font colors
-5. have doug reword sentences and fix all the english errors
-6. link to things
-7. minify things
-8. make nav indicate selected section
+1. make more mobile friendly
+1. add tree "icon" somewhere
+1. have doug reword sentences and fix all the english errors
+1. link to things
+1. minify things
+1. make nav indicate selected section

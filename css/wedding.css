@@ -1,5 +1,7 @@
 #content {
   margin: 30px;
+  font-family: 'Libre Baskerville', serif;
+  color: rgb(131,131,131);
 }
 
 #banner {
@@ -16,12 +18,11 @@
 }
 .fancy-font {
   font-family: 'Alex Brush', cursive;
-  color: rgb(144,144,144);
+  color: rgb(185,185,185);
 }
 .modern-font {
   font-family: 'Libre Baskerville', serif;
-  color: rgb(144,144,144);
-  color: rgb(133,133,133);
+  color: rgb(131,131,131);
 }
 section {
   padding-top: 200px;
