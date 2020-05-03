@@ -5,3 +5,4 @@
 5. have doug reword sentences and fix all the english errors
 6. link to things
 7. minify things
+8. make nav indicate selected section
