@@ -1,5 +1,9 @@
-#content {
-  margin: 30px;
+.fancy-font {
+  font-family: 'Alex Brush', cursive;
+  color: rgb(185,185,185);
+}
+
+.modern-font {
   font-family: 'Libre Baskerville', serif;
   color: rgb(131,131,131);
 }
@@ -8,28 +12,35 @@
   margin-bottom: 60px;
   margin-left: 15px;
 }
-#banner h3 {
-  margin-top: 30px;
+
+h2:hover {
+  color: rgb(131,131,131);
 }
+
 .sticky {
   position: fixed;
   top: 0;
   width: 100%
 }
-.fancy-font {
-  font-family: 'Alex Brush', cursive;
-  color: rgb(185,185,185);
-}
-.modern-font {
+
+#content {
+  margin: 30px;
   font-family: 'Libre Baskerville', serif;
   color: rgb(131,131,131);
 }
+
 section {
   padding-top: 200px;
   height: 100vh;
+  text-align: center;
 }
+
+section h3 {
+  font-family: 'Alex Brush', cursive;
+  color: rgb(185,185,185);
+}
+
 p {
   font-family: 'Libre Baskerville', serif;
   color: rgb(144,144,144);
-  text-align: center;
 }
