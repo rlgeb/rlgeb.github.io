@@ -8,8 +8,12 @@ $(function() {
     })(navigator.userAgent||navigator.vendor||window.opera);
     return check;
   };
+  function isTablet() {
+    const userAgent = navigator.userAgent.toLowerCase();
+    return /(ipad|tablet|(android(?!.*mobile))|(windows(?!.*phone)(.*touch))|kindle|playbook|silk|(puffin(?!.*(IP|AP|WP))))/.test(userAgent);
+  }
 
-  if (isMobile()) {
+  if (isMobile() || isTablet()) {
     // Remove all non-essential sections
     $('#story').remove();
     $('#photos').remove();
