@@ -23,7 +23,7 @@ $(function() {
 
       const secionId = $(this).attr('id');
       if (secionId === 'home') {
-        $(this).append('<p>You\'re viewing the abbreviated mobile friendly site.</p><p>Scroll down for more info!</p>');
+        $(this).append('<p>You\'re viewing the abbreviated site.</p><p>Scroll down for more info!</p>');
       } else {
         $(this).prepend('<h2 class="text-center">' + secionId.charAt(0).toUpperCase() + secionId.slice(1) + '</h2>');
         $(this).css('text-align', 'left');
