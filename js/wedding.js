@@ -21,10 +21,14 @@ $(function() {
     // Remove nav (instead use section headers)
     $('#banner').remove();
 
+    // Fix timeline alignmennt
+    $('#details').find('dl, dt, dd').each(function () {
+        $(this).removeClass();
+    });
+
     $('section').each(function () {
       $(this).css('height', 'auto');
       $(this).css('padding-top', '10px');
-
       const secionId = $(this).attr('id');
       if (secionId === 'home') {
         $(this).append('<p>You\'re viewing the abbreviated site.</p><p>Scroll down for more info!</p>');
